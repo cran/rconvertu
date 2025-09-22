@@ -1,0 +1,11 @@
+ec5b4e7fded369d45efd0498e760e3a4 *DESCRIPTION
+1ae7d6ce3208c0cb9cf15e34cfc31b6c *LICENSE
+7564ccf3245ea359ad86e4b629576e84 *NAMESPACE
+9dc1e7914273522697b3c9770ce37647 *NEWS.md
+47400d86065717d1d249f3e6e45c57da *R/convertu.R
+0d9d9e303c259f67598e3d5868ee7400 *R/validate.R
+e8699d8c31970ad6c56aa6e93f547525 *README.md
+ba0d64dc0c763866adb609e29faf481c *inst/extdata/classification.json
+f615215d3223a6d290c88b8f511c26c2 *man/cconv.Rd
+1da4fb6ec519894e442d9c6f51073d19 *man/check_classification.Rd
+0a56f9c3b607301edb7a40101f98ab7e *tests/testthat/test-classification.R
